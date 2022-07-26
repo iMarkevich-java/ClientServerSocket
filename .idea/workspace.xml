@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26cb63bc-6e6c-451a-b16d-534ae0fe3418" name="Changes" comment="next2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="26cb63bc-6e6c-451a-b16d-534ae0fe3418" name="Changes" comment="next3">
       <change beforePath="$PROJECT_DIR$/Server/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/Server.class" afterDir="false" />
     </list>
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658774197545</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="next3">
+      <created>1658775321766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658775321766</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +106,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="next1" />
     <MESSAGE value="next2" />
-    <option name="LAST_COMMIT_MESSAGE" value="next2" />
+    <MESSAGE value="next3" />
+    <option name="LAST_COMMIT_MESSAGE" value="next3" />
   </component>
 </project>

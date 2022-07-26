@@ -19,7 +19,9 @@ public class Server {
 										socket.getInputStream()));
 			){
 				String request = reader.readLine();
-			writer.write("HELLO FROM SERVER: " + request.length());
+				String response = "HELLO FROM SERVER: " + request.length();
+			writer.write(response);
+				System.out.println(response);
 			writer.newLine();
 			writer.flush();
 			}
